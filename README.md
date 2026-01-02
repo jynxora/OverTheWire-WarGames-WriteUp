@@ -7,5 +7,5 @@
 | Leviathan  | Level 0 → 7      | Completed   | [Read the Write-up](https://github.com/jynxora/OverTheWire-Leviathan-Series-CTF-Writeup) |
 | Krypton    | Level 0 → 7      | Completed   | [Read the Write-up](https://github.com/jynxora/OverTheWire-Krypton-Series-Walkthrough)   |
 | Narnia     | Level 0 → 8      | Completed   | [Read the Write-up](https://github.com/jynxora/OverTheWire-Narnia-Series-Walkthrough)    |
-| Behemoth   | Level 6          | In Progress | [Read the Write-up](https://github.com/jynxora/OverTheWire-Behemoth-Series-Walkthrough)  |
+| Behemoth   | Level 0 → 8      | Completed   | [Read the Write-up](https://github.com/jynxora/OverTheWire-Behemoth-Series-Walkthrough)  |
 | Vortex     | Level 0          | In Progress | [Read the Write-up](https://github.com/jynxora/OverTheWire-Vortex-Series-Walkthrough)    |
